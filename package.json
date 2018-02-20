@@ -1,0 +1,20 @@
+{
+    "name": "canchito-dev/bootstrap-sign-in-web-component",
+    "version": "1.0.0",
+    "type": "project",
+    "description": "Bootstrap Sign-in Web Component is a very simple but effective jQuery plugin for creating a sign-in form. It fully support Bootstrap v4",
+    "keywords": ["skeleton", "boilerplate", "framework", "barebone", "application"],
+    "homepage": "http://canchito-dev/projects/bootstrap-sign-in-web-component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "José Carlos Mendoza Prego",
+            "role": "Developer",
+            "email": "contact@canchito-dev.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/canchito-dev/bootstrap-sign-in-web-component/issues",
+        "source": "https://github.com/canchito-dev/bootstrap-sign-in-web-component"
+    }
+}
